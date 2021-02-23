@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="talk20V-Opg04">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/src/talk20V-Opg04.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/src/talk20V-Opg04.jar!/" />
+    </SOURCES>
+  </library>
+</component>
